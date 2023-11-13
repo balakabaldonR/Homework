@@ -1,0 +1,211 @@
+.section {
+  width: 1170px;
+  height: 630px;
+  padding-left: 100px;
+}
+.section__article {
+  width: 1170px;
+  height: 211px;
+}
+.section__article_header {
+  height: 149px;
+  display: flex;
+  text-transform: uppercase;
+  justify-content: center;
+  align-items: center;
+  font-size: 36px;
+  font-weight: 400;
+  font-family: "Raleway", sans-serif;
+}
+.section__article_line {
+  width: 170px;
+  border: 1px solid #ec7979;
+  margin-left: 501px;
+  margin-bottom: 40px;
+}
+.section__article_footer {
+  height: 21px;
+  color: #86878b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Raleway", sans-serif;
+}
+.section__main {
+  padding-top: 83px;
+  width: 1170px;
+  height: 336px;
+  display: flex;
+}
+.section__main_customer1 {
+  width: 370px;
+  height: 336px;
+  margin-right: 30px;
+}
+.section__main_customer1_review {
+  width: 370px;
+  height: 180px;
+  background-color: #e2e2e2;
+  border-radius: 10px;
+}
+.section__main_customer1_review_text {
+  padding-top: 38px;
+  width: 370px;
+  height: 105px;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #86878b;
+  text-align: center;
+}
+.section__main_customer1_triangle {
+  margin-left: 70px;
+  width: 0;
+  height: 0;
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+  border-top: 20px solid #e2e2e2;
+  margin-bottom: 46px;
+}
+.section__main_customer1_info {
+  width: 370px;
+  height: 90px;
+  display: flex;
+}
+.section__main_customer1_info_photo {
+  width: 70px;
+  height: 70px;
+  margin-right: 30px;
+}
+.section__main_customer1_info_text_1 {
+  display: flex;
+  width: 269px;
+  height: 54px;
+  align-items: center;
+  font-family: "Open Sans", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+.section__main_customer1_info_text_2 {
+  width: 270px;
+  height: 21px;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+}
+.section__main_customer2 {
+  width: 370px;
+  height: 336px;
+  margin-right: 30px;
+}
+.section__main_customer2_review {
+  width: 370px;
+  height: 180px;
+  background-color: #e2e2e2;
+  border-radius: 10px;
+}
+.section__main_customer2_review_text {
+  padding-top: 38px;
+  width: 370px;
+  height: 105px;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #86878b;
+  text-align: center;
+}
+.section__main_customer2_triangle {
+  margin-left: 70px;
+  width: 0;
+  height: 0;
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+  border-top: 20px solid #e2e2e2;
+  margin-bottom: 46px;
+}
+.section__main_customer2_info {
+  width: 370px;
+  height: 90px;
+  display: flex;
+}
+.section__main_customer2_info_photo {
+  width: 70px;
+  height: 70px;
+  margin-right: 30px;
+}
+.section__main_customer2_info_text_1 {
+  display: flex;
+  width: 269px;
+  height: 54px;
+  align-items: center;
+  font-family: "Open Sans", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+.section__main_customer2_info_text_2 {
+  width: 270px;
+  height: 21px;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+}
+.section__main_customer3 {
+  width: 370px;
+  height: 336px;
+}
+.section__main_customer3_review {
+  width: 370px;
+  height: 180px;
+  background-color: #e2e2e2;
+  border-radius: 10px;
+}
+.section__main_customer3_review_text {
+  padding-top: 38px;
+  width: 370px;
+  height: 105px;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #86878b;
+  text-align: center;
+}
+.section__main_customer3_triangle {
+  margin-left: 70px;
+  width: 0;
+  height: 0;
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+  border-top: 20px solid #e2e2e2;
+  margin-bottom: 46px;
+}
+.section__main_customer3_info {
+  width: 370px;
+  height: 90px;
+  display: flex;
+}
+.section__main_customer3_info_photo {
+  width: 70px;
+  height: 70px;
+  margin-right: 30px;
+}
+.section__main_customer3_info_text_1 {
+  display: flex;
+  width: 269px;
+  height: 54px;
+  align-items: center;
+  font-family: "Open Sans", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+.section__main_customer3_info_text_2 {
+  width: 270px;
+  height: 21px;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+}

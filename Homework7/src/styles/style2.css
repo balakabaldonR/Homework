@@ -1,0 +1,227 @@
+html,
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.section {
+  position: relative;
+  width: 1500px;
+  height: 1196px;
+}
+.section__information {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1500px;
+  height: 1196px;
+  background-image: url(../img/background.png);
+}
+.section__img1 {
+  position: absolute;
+  margin-left: 161px;
+  margin-top: 250px;
+}
+.section__img2 {
+  position: absolute;
+  margin-left: 1283px;
+  margin-top: 954px;
+}
+.section__header_1 {
+  width: 327px;
+  height: 42px;
+  margin-top: 330px;
+  font-family: "Poppins", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 42px;
+  color: rgba(255, 255, 255, 1);
+  display: flex;
+}
+.section__header_2 {
+  width: 327px;
+  height: 42px;
+  margin-bottom: 28px;
+  font-family: "Poppins", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 42px;
+  color: rgba(255, 255, 255, 1);
+  display: flex;
+  justify-content: center;
+}
+.section__line {
+  width: 50px;
+  border: 7px solid #fd749b;
+  border-radius: 6px;
+  margin-bottom: 45px;
+}
+.section__information_1 {
+  width: 542px;
+  height: 26px;
+  margin-bottom: 5px;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 40px;
+  letter-spacing: 0px;
+  display: flex;
+  justify-content: center;
+  color: rgba(255, 255, 255, 1);
+}
+.section__information_2 {
+  width: 542px;
+  height: 26px;
+  margin-bottom: 5px;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 40px;
+  letter-spacing: 0px;
+  display: flex;
+  justify-content: center;
+  color: rgba(255, 255, 255, 1);
+}
+.section__information_3 {
+  width: 542px;
+  height: 26px;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 40px;
+  letter-spacing: 0px;
+  display: flex;
+  justify-content: center;
+  color: rgba(255, 255, 255, 1);
+  margin-bottom: 19px;
+}
+.section__review {
+  position: relative;
+  width: 1067px;
+  height: 388.53px;
+}
+.section__imgOval1 {
+  position: absolute;
+  margin-left: 216px;
+  margin-top: 836.94px;
+}
+.section__imgOval2 {
+  position: absolute;
+  margin-left: 304px;
+  margin-top: 688.21px;
+}
+.section__imgOval3 {
+  position: absolute;
+  margin-left: 456.64px;
+  margin-top: 852.82px;
+}
+.section__imgOval4 {
+  position: absolute;
+  margin-left: 490.06px;
+  margin-top: 706.6px;
+}
+.section__imgOval5 {
+  position: absolute;
+  margin-left: 563.59px;
+  margin-top: 785.14px;
+}
+.section__imgOval6 {
+  position: absolute;
+  margin-left: 658.01px;
+  margin-top: 826.08px;
+}
+.section__imgOval7 {
+  position: absolute;
+  margin-left: 688.92px;
+  margin-top: 714.95px;
+}
+.section__imgOval8 {
+  position: absolute;
+  margin-left: 835.14px;
+  margin-top: 756.73px;
+}
+.section__imgOval9 {
+  position: absolute;
+  margin-left: 961.31px;
+  margin-top: 814.38px;
+}
+.section__imgOval10 {
+  position: absolute;
+  margin-left: 983.87px;
+  margin-top: 688.21px;
+}
+.section__imgOval11 {
+  position: absolute;
+  margin-left: 995.57px;
+  margin-top: 912.14px;
+}
+.section__imgOval12 {
+  position: absolute;
+  margin-left: 1098.34px;
+  margin-top: 790.99px;
+}
+.section__imgOval13 {
+  position: absolute;
+  margin-left: 1198.61px;
+  margin-top: 608px;
+}
+.section__review_triangle {
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-top: 19px solid transparent;
+  border-right: 24.46px solid rgba(196, 196, 196, 1);
+  border-bottom: 19px solid transparent;
+  margin-top: 859.43px;
+  margin-left: 748.54px;
+  opacity: 0.7;
+}
+.section__review_box {
+  position: absolute;
+  width: 410px;
+  height: 117px;
+  border-radius: 15px;
+  background-color: rgba(196, 196, 196, 1);
+  margin-left: 772px;
+  margin-top: 820px;
+  opacity: 0.7;
+}
+.section__review_box_text_main_header {
+  position: absolute;
+  width: 152px;
+  height: 21.36px;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  text-align: left;
+  color: rgba(51, 51, 51, 1);
+  margin-top: 836.7px;
+  margin-left: 799.33px;
+}
+.section__review_box_text_main_mark {
+  position: absolute;
+  margin-top: 861.87px;
+  margin-left: 799.33px;
+}
+.section__review_box_text_main_text {
+  position: absolute;
+  margin-top: 883.17px;
+  margin-left: 799.33px;
+  width: 419.5px;
+  height: 36.09px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  text-align: left;
+}
+.section__review_box_text_main_text > span {
+  font-family: "Poppins", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 20px;
+  text-align: left;
+}
+.section__review_box_text_img {
+  position: absolute;
+  margin-top: 840.68px;
+  margin-left: 1141px;
+}
